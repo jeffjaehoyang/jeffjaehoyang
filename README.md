@@ -46,4 +46,4 @@ I was recently a software engineering intern at [Esri](https://www.esri.com), an
 </p>
 
 ![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
-![Languages I Speak](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjaehoyang&layout=compact)
+![Languages I Speak](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjaehoyang&layout=compact&hide=ruby)
