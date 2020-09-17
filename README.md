@@ -1,8 +1,8 @@
-# Hi there, nice to see you 😎
+## Hi there, nice to see you 😎
 ---
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
-I was recently a software engineering intern at [Esri](https://www.esri.com) and [Knowru](https://www.knowrulimited.com).
+I was recently a software engineering intern at [Esri](https://www.esri.com), and previously at [Knowru](https://www.knowrulimited.com).
 
 ### Technologies I love to use
 <p>
@@ -44,3 +44,6 @@ I was recently a software engineering intern at [Esri](https://www.esri.com) and
         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a> 
 </p>
+
+![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
+![Languages I Speak](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjaehoyang&layout=compact)
