@@ -29,6 +29,11 @@ I was recently a software engineering intern at [Esri](https://www.esri.com), an
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up ESLint and Prettier with VS Code](https://www.jeffyang.io/eslint-prettier-with-vscode)
+- [Minimum Number of Coins for Change](https://www.jeffyang.io/min-number-of-coins-for-change)
+- [Resize Images Stored in AWS S3 with AWS Lambda (feat. Docker)](https://www.jeffyang.io/resize-images-stored-in-aws-s3-with-aws-lambda)
+- [Django Channels 2.0, Postgres, Daphne, and Heroku](https://www.jeffyang.io/deploy-django-asgi-app-on-heroku)
+- [What is a Graph?](https://www.jeffyang.io/what-is-a-graph)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online
