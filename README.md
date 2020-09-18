@@ -11,7 +11,6 @@ I was recently a software engineering intern at [Esri](https://www.esri.com), an
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -23,6 +22,9 @@ I was recently a software engineering intern at [Esri](https://www.esri.com), an
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-8080F1?style=flat-square&logo=eslint&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-6D6D6D?style=flat-square&logo=Flask&logoColor=white" />
 </p>
 
 ### Latest Blog Posts
@@ -46,4 +48,3 @@ I was recently a software engineering intern at [Esri](https://www.esri.com), an
 </p>
 
 ![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
-![Languages I Speak](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffjaehoyang&layout=compact&hide=ruby)
