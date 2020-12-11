@@ -2,7 +2,7 @@
 ---
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
-I was recently a software engineering intern at [Esri](https://www.esri.com), and previously at [Knowru](https://www.knowrulimited.com).
+I was recently a software engineering intern at [Esri](https://www.esri.com), and previously at [Knowru](https://www.knowrulimited.com). I will be joining Facebook as a software engineering intern next summer.
 
 ### Technologies I love to use
 <p>
