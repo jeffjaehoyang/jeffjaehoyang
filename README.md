@@ -25,11 +25,11 @@ I was recently a software engineering intern at a Korean Series A e-commerce sta
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working at an Early Stage Startup - Part One](https://jeffyang.io/blog/fumi_internship_part_one/)
 - [Github Authentication with SSH](https://jeffyang.io/blog/github_ssh_authentication/)
 - [Setting up ESLint and Prettier with VS Code](https://jeffyang.io/blog/eslint_prettier_vscode/)
 - [Minimum Number of Coins for Exchange](https://jeffyang.io/blog/min_number_of_coins_for_exchange/)
 - [Resize Images Stored in AWS S3 with AWS Lambda (feat. Docker)](https://jeffyang.io/blog/aws_s3_and_lambda/)
-- [Django Channels 2.0, Postgres, Daphne, and Heroku](https://jeffyang.io/blog/deploy_django_app_on_heroku/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online
