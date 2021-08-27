@@ -2,7 +2,7 @@
 ---
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
-I was recently a software engineering intern at a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com). I will be joining [Facebook](https://www.facebook.com/careers) as a software engineering intern this summer.
+I was recently a software engineering intern at [Facebook](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
 
 ### Some of my favorite technologies
 <p>
