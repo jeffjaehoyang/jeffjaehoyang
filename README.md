@@ -20,11 +20,11 @@ I was recently a software engineering intern at [Facebook](https://www.facebook.
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Facebook Internship](https://jeffyang.io/blog/my_facebook_internship/)
 - [Working at an Early Stage Startup - Part Two](https://jeffyang.io/blog/fumi_internship_part_two/)
 - [Working at an Early Stage Startup - Part One](https://jeffyang.io/blog/fumi_internship_part_one/)
 - [Github Authentication with SSH](https://jeffyang.io/blog/github_ssh_authentication/)
 - [Setting up ESLint and Prettier with VS Code](https://jeffyang.io/blog/eslint_prettier_vscode/)
-- [Minimum Number of Coins for Exchange](https://jeffyang.io/blog/min_number_of_coins_for_exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me online
