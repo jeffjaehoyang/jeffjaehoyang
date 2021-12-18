@@ -9,12 +9,10 @@ I was recently a software engineering intern at [Facebook](https://www.facebook.
     <img alt="Python" src="https://img.shields.io/badge/-Python-2b6ea3?style=flat-square&logo=Python&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f1d818?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Emberjs" src="https://img.shields.io/badge/-Ember-e7613b?style=flat-square&logo=Ember.js&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
-    <img alt="Amazon Web Services" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-6D6D6D?style=flat-square&logo=Flask&logoColor=white" />
 </p>
 
