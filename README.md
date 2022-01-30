@@ -1,4 +1,4 @@
-## Hi there, nice to see you 😎
+## Hi there 😎
 ---
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
