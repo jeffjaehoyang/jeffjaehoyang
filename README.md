@@ -37,11 +37,8 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
 ### Find me online
 <p>
     <a href="https://jeffyang.io" target="_blank">
-        <img alt="Personal Blog" src="https://img.shields.io/badge/jeffyang.io-1e1249?&style=for-the-badge&logo=Cachet&logoColor=white" />
+        <img alt="Personal Blog" src="https://img.shields.io/badge/jeffyang.io-C39BD3?&style=for-the-badge&logo=Cachet&logoColor=white" />
     </a>
-    <a href="https://github.com/jeffjaehoyang" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a> 
     <a href="https://www.linkedin.com/in/jaeho-yang" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
