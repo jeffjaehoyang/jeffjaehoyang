@@ -1,8 +1,17 @@
 ## Hi there 😎
----
+
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
 I was recently a software engineering intern at [Meta(Facebook)](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [A Practical Application of Redis Cache](https://jeffyang.io/blog/practical_application_of_redis_cache/)
+- [My Facebook Internship](https://jeffyang.io/blog/my_facebook_internship/)
+- [Working at an Early Stage Startup - Part Two](https://jeffyang.io/blog/fumi_internship_part_two/)
+- [Working at an Early Stage Startup - Part One](https://jeffyang.io/blog/fumi_internship_part_one/)
+- [Github Authentication with SSH](https://jeffyang.io/blog/github_ssh_authentication/)
+<!-- BLOG-POST-LIST:END -->
 
 ### My Text Editor
 <p>
@@ -18,21 +27,12 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
     <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
 </p>
 
-### My list of things to get better at
+### I'm currently exploring/learning
 <p>
     <img alt="CPP" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
     <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </p>
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A Practical Application of Redis Cache](https://jeffyang.io/blog/practical_application_of_redis_cache/)
-- [My Facebook Internship](https://jeffyang.io/blog/my_facebook_internship/)
-- [Working at an Early Stage Startup - Part Two](https://jeffyang.io/blog/fumi_internship_part_two/)
-- [Working at an Early Stage Startup - Part One](https://jeffyang.io/blog/fumi_internship_part_one/)
-- [Github Authentication with SSH](https://jeffyang.io/blog/github_ssh_authentication/)
-<!-- BLOG-POST-LIST:END -->
 
 ### Find me online
 <p>
