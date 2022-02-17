@@ -4,16 +4,25 @@ Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
 I was recently a software engineering intern at [Meta(Facebook)](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
 
+### My Text Editor
+<p>
+    <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+</p>
+
 ### Some of my favorite technologies
 <p>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-2b6ea3?style=flat-square&logo=Python&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f1d818?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-6D6D6D?style=flat-square&logo=Flask&logoColor=white" />
+</p>
+
+### My list of things to get better at
+<p>
+    <img alt="CPP" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </p>
 
 ### Latest Blog Posts
@@ -28,7 +37,7 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
 ### Find me online
 <p>
     <a href="https://jeffyang.io" target="_blank">
-        <img alt="Personal Blog" src="https://img.shields.io/badge/jeffyang.io-1e1249?&style=for-the-badge&logo=appveyor&logoColor=white" />
+        <img alt="Personal Blog" src="https://img.shields.io/badge/jeffyang.io-1e1249?&style=for-the-badge&logo=Cachet&logoColor=white" />
     </a>
     <a href="https://github.com/jeffjaehoyang" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
