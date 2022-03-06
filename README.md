@@ -1,4 +1,4 @@
-## Hi there 😎
+## Software Dev is fun. But it's even more fun with Neovim 🤩 
 
 Welcome to my Github Profile!
 I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
@@ -47,4 +47,4 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
     </a> 
 </p>
 
-![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
+![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox)
