@@ -15,7 +15,7 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
 
 ### My Text Editor
 <p>
-    <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+    <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-019733?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
 ### Some of my favorite technologies
