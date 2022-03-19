@@ -6,11 +6,11 @@ I was recently a software engineering intern at [Meta(Facebook)](https://www.fac
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating a Computer Science Degree](https://jeffyang.io/blog/navigating_a_computer_science_degree/)
 - [A Practical Application of Redis Cache](https://jeffyang.io/blog/practical_application_of_redis_cache/)
 - [My Facebook Internship](https://jeffyang.io/blog/my_facebook_internship/)
 - [Working at an Early Stage Startup &lpar;Pt. 2&rpar;](https://jeffyang.io/blog/fumi_internship_part_two/)
 - [Working at an Early Stage Startup &lpar;Pt. 1&rpar;](https://jeffyang.io/blog/fumi_internship_part_one/)
-- [Github Authentication with SSH](https://jeffyang.io/blog/github_ssh_authentication/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Text Editor
