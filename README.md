@@ -1,7 +1,7 @@
 ## Software Dev is fun. But it's even more fun with Neovim 🤩 
 
 Welcome to my Github Profile!
-I'm Jeff, a computer science student at Northwestern University, with a special interest in web technologies and scalable software architecture.
+I'm Jeff, a recent grad from Northwestern University (B.A. in computer science), with a special interest in web technologies and scalable software architecture.
 I was recently a software engineering intern at [Meta(Facebook)](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
 
 ### Latest Blog Posts
