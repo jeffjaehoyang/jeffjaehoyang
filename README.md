@@ -1,4 +1,4 @@
-## Software Dev is fun. But it's even more fun with Neovim 🤩 
+## Software Dev + Neovim = 🔥
 
 Welcome to my Github Profile!
 I'm Jeff, a recent grad from Northwestern University (B.A. in computer science), with a special interest in web technologies and scalable software architecture.
