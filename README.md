@@ -1,8 +1,8 @@
 ## Software Dev + Neovim = 🔥
 
 Welcome to my Github Profile!
-I'm Jeff, a recent grad from Northwestern University (B.A. in computer science), with a special interest in web technologies and scalable software architecture.
-I was recently a software engineering intern at [Meta(Facebook)](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
+I'm Jeff, a software engineer with a special interest in web technologies and scalable software architecture.
+I currently work at Meta and was recently a software engineering intern at [Facebook](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
