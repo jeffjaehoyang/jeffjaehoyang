@@ -47,4 +47,4 @@ I currently work at Meta and was recently a software engineering intern at [Face
     </a> 
 </p>
 
-![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=gruvbox)
+![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=jeffjaehoyang&hide=stars,contribs&count_private=true&show_icons=true&theme=gotham)
