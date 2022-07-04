@@ -1,8 +1,8 @@
-## Software Dev + Neovim = 🔥
+### Software Dev + Neovim = 🔥
 
-Welcome to my Github Profile!
-I'm Jeff, a software engineer with a special interest in web technologies and scalable software architecture.
-I currently work at Meta and was recently a software engineering intern at [Facebook](https://www.facebook.com/careers), a Korean Series A e-commerce startup [Fumi](https://team.fumi.co.kr/), and previously at [Esri](https://www.esri.com) & [Knowru](https://www.knowrulimited.com).
+Hello ✌
+
+Just someone looking to build awesome products, get to know more about computers along the way, and most importantly have lots of fun. I also try to work on my developer workflow - s/o to neovim ppl!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,22 +16,6 @@ I currently work at Meta and was recently a software engineering intern at [Face
 ### My Text Editor
 <p>
     <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-019733?style=flat-square&logo=neovim&logoColor=white" />
-</p>
-
-### Some of my favorite technologies
-<p>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-2b6ea3?style=flat-square&logo=Python&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?style=flat-square&logo=Django&logoColor=white" />
-</p>
-
-### I'm currently exploring/learning
-<p>
-    <img alt="CPP" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
-    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
 </p>
 
 ### Find me online
