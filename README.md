@@ -6,11 +6,11 @@ Just someone looking to build awesome products, get to know more about computers
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Portable Dotfiles](https://jeffyang.io/blog/configuring_portable_dotfiles/)
 - [Navigating a Computer Science Degree](https://jeffyang.io/blog/navigating_a_computer_science_degree/)
 - [A Practical Application of Redis Cache](https://jeffyang.io/blog/practical_application_of_redis_cache/)
 - [My Facebook Internship](https://jeffyang.io/blog/my_facebook_internship/)
 - [Working at an Early Stage Startup &lpar;Pt. 2&rpar;](https://jeffyang.io/blog/fumi_internship_part_two/)
-- [Working at an Early Stage Startup &lpar;Pt. 1&rpar;](https://jeffyang.io/blog/fumi_internship_part_one/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Text Editor
