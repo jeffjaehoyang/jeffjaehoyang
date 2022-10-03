@@ -1,5 +1,3 @@
-### Software Dev + Neovim = 🔥
-
 Hello ✌
 
 Just someone looking to build awesome products, get to know more about computers along the way, and most importantly have lots of fun. I also try to work on my developer workflow - s/o to neovim enthusiasts!
